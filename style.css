@@ -5,7 +5,7 @@
 	color: white;
 }
 .bgg{
-	background-color: ##151719;
+	background-color: #151719;
 }
 .img{
 	weight: 20px;
@@ -15,4 +15,7 @@
 }
 .bgc{
 	background-color: #f5f5f5;
+}
+.font1{
+	color: #000000;
 }
